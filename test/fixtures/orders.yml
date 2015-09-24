@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 
+  purchased: 2015-09-24
+  shipping: false
+  total: 9.99
+
+two:
+  number: 
+  purchased: 2015-09-24
+  shipping: false
+  total: 9.99
