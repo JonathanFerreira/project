@@ -54,5 +54,7 @@ group :development, :test do
   gem 'spring'
 end
 
-#devise-authentication
+#devise-authentication cancan and rolify
 gem 'devise'
+gem 'cancancan'
+gem 'rolify'
